@@ -60,4 +60,6 @@ Wir freuen uns auf viele Änderungen.
 
 # Autor
 
-(C) 2021, Ondics GmbH
+https://ckan.de
+
+(C) 2021 | [Ondics GmbH](https://ondics.de)

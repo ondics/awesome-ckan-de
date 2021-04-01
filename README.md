@@ -13,6 +13,7 @@ A curated list of all awesome things related to CKAN in deutsch
 
 ## Empfehlenswerte CKAN Extensions
 
+* **ckanext-pages** (en.) Kleines CMS für CKAN mit Seiten und Beiträgen https://github.com/ckan/ckanext-pages
 * **datastore** (en.) Ermöglicht die Speicherung von tabellarischen Daten in der CKAN-Datenbank PostgreSQL https://docs.ckan.org/en/2.9/maintaining/datastore.html
 * **recline_view / Data Explorer** (en.) Universelle Anzeige von strukturierten Inhalten, optimiert für den CKAN DataStore  https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#data-explorer
 * **recline_grid_view / DataStore Grid** (en.) Universelle Anzeige von strukturierten Inhalten, nur für den CKAN DataStore https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-grid
@@ -42,3 +43,19 @@ A curated list of all awesome things related to CKAN in deutsch
 * **CKAN Handbuch (en.) für Version 2.9** https://docs.ckan.org/en/2.9/contents.html
 * **Data Catalog Vocabulary (DCAT) - Version 2** (en.) DCAT Spezifikation https://www.w3.org/TR/vocab-dcat/
 * **DCAT-AP** Metadatenmodell zum Austausch von offenen Verwaltungsdaten https://www.dcat-ap.de/
+
+# Verbesserungen
+
+Jeder qualifizierte Beitrag ist willkommen. Vorgehensweise:
+
+* Gitub-Fork erstellen
+* Ergänzungen durchführen
+* Pull Request stellen
+* Warten, bis er akzeptiert wird
+* Fertig
+
+Wir freuen uns auf viele Änderungen.
+
+# Autor
+
+(C) 2021, Ondics GmbH

@@ -24,13 +24,14 @@ A curated list of all awesome things related to CKAN in deutsch
 * **CKAN Downloader for Amsterdam Data** (en.) Nutzung von CKAN Datensätzen in Jupyter Notebooks https://github.com/KRontheWeb/ckan-downloader
 * **Verwendung der API bei der SBB** Wie kann man die API als Anwender nutzen? Informationen der Open-Data-Plattform Mobilität Schweiz https://opentransportdata.swiss/de/cookbook/verwendung-des-ckan-api/
 * **jupyter-ckan** (en.) Beispiele für CKAN in Jupyter / sandbox for jupyter notebooks that interact with CKAN https://github.com/CINERGI/jupyter-ckan
+* **ckan.js** (en.) CKAN in eigenes JavaScript einbinden https://github.com/okfn/ckan.js
+* **ckan-api-client 0.1-beta5** (en.) CKAN Python Client zur CKAN API. Nutzung der CKAN API in einem Python-Programm https://pypi.org/project/ckan-api-client/
 
 ## CKAN API
 
 * **CKAN’s Action API** (en.) API Kurzbeschreibung https://ckan.org/portfolio/api/
 * **API guide** (en.) API Dokumentation https://docs.ckan.org/en/2.9/api/index.html
 * **ckanapi** (en.) API Beschreibung und Implementierung in Python https://github.com/ckan/ckanapi
-* **ckan-api-client 0.1-beta5** (en.) CKAN Python Client. Nutzung der CKAN API in einem Python-Programm https://pypi.org/project/ckan-api-client/
 
 
 ## CKAN Handbuch / Anleitungen 

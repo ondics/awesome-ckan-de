@@ -5,7 +5,7 @@ A curated list of all awesome things related to CKAN in deutsch
 
 * **Britisches Open Data Portal** (en.) data.gov.uk | Find open data  https://data.gov.uk/
 
-## CKAN Open Data Portal mit schönenm Frontend
+## CKAN Open Data Portal mit schönem Frontend
 
 
 * **Offene Daten portal Stadt Frankfurt am Main** Leichte, schriftbetonte Oberfläche, integriert in städtische Corporate Design https://offenedaten.frankfurt.de

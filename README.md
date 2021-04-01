@@ -1,12 +1,13 @@
 # awsome-ckan-de
 A curated list of all awesome things related to CKAN in deutsch
 
-## Umfangreiche CKAN Open Data Portale
+## Große CKAN Open Data Portale weltweit
 
 * **Britisches Open Data Portal** (en.) data.gov.uk | Find open data  https://data.gov.uk/
+* **U.S. Government’s open data** (en.) Über 200.000 Datensätze der US-Regierung https://github.com/ckan/ckanext-harvest
+* **CKAN instances around the world** (ev.) Viele CKAN-Portale sind hier gelistet https://ckan.org/about/instances/
 
-## CKAN Open Data Portal mit schönem Frontend
-
+## Deutsche CKAN Open Data Portale
 
 * **Offene Daten portal Stadt Frankfurt am Main** Leichte, schriftbetonte Oberfläche, integriert in städtische Corporate Design https://offenedaten.frankfurt.de
 * **Open Data Portal Metropole Ruhr** Aufgeräumtes, übersichtliches Template https://opendata.ruhr
@@ -19,6 +20,7 @@ A curated list of all awesome things related to CKAN in deutsch
 * **recline_grid_view / DataStore Grid** (en.) Universelle Anzeige von strukturierten Inhalten, nur für den CKAN DataStore https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-grid
 * **recline_map_view / DataStore Map** (en.) Anzeige von Daten aus dem DataStore mit GeoJson (Lat/Lon) Feldern https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-map
 * **ckanext-dcat** (en.) Fügt RDF-Informationenzu den Datensätzen hinzu, die beim Harvesten Metadaten zur Verfügung gestellt und konsumiert werden können. DCAT = Data Catalog Vocabulary
+* **harvest ckan_harvester** Damit können CKAN-Portale komplette Datensätze von/zu anderern CKAN-Portalen übertragen https://github.com/ckan/ckanext-harvest
 
 ## Nutzung von CKAN in eigenen Anwendungen / Apps / Applikationen
 

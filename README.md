@@ -17,6 +17,7 @@ A curated list of all awesome things related to CKAN in deutsch
 * **recline_view / Data Explorer** (en.) Universelle Anzeige von strukturierten Inhalten, optimiert für den CKAN DataStore  https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#data-explorer
 * **recline_grid_view / DataStore Grid** (en.) Universelle Anzeige von strukturierten Inhalten, nur für den CKAN DataStore https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-grid
 * **recline_map_view / DataStore Map** (en.) Anzeige von Daten aus dem DataStore mit GeoJson (Lat/Lon) Feldern https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-map
+* **ckanext-dcat** (en.) Fügt RDF-Informationenzu den Datensätzen hinzu, die beim Harvesten Metadaten zur Verfügung gestellt und konsumiert werden können. DCAT = Data Catalog Vocabulary
 
 ## Nutzung von CKAN in eigenen Anwendungen / Apps / Applikationen
 
@@ -38,5 +39,6 @@ A curated list of all awesome things related to CKAN in deutsch
 
 * **Das Berliner Open-Data-Handbuch** https://daten.berlin.de/sites/default/files/berliner-open-data-handbuch.pdf
 * **handbook.opendata.swiss** Open Government Data Handbuch Schweiz https://handbook.opendata.swiss/de/index.html
-* **CKAN Handbuch (engl.) für Version 2.9** https://docs.ckan.org/en/2.9/contents.html
-
+* **CKAN Handbuch (en.) für Version 2.9** https://docs.ckan.org/en/2.9/contents.html
+* **Data Catalog Vocabulary (DCAT) - Version 2** (en.) DCAT Spezifikation https://www.w3.org/TR/vocab-dcat/
+* **DCAT-AP** Metadatenmodell zum Austausch von offenen Verwaltungsdaten https://www.dcat-ap.de/

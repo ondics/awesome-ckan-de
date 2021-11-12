@@ -12,6 +12,8 @@ A curated list of all awesome things related to CKAN in deutsch
 * **Offene Daten portal Stadt Frankfurt am Main** Leichte, schriftbetonte Oberfläche, integriert in städtische Corporate Design https://offenedaten.frankfurt.de
 * **Open Data Portal Metropole Ruhr** Aufgeräumtes, übersichtliches Template https://opendata.ruhr
 
+Weitere Open Data Portale gibt es als Open Data [hier](https://www.govdata.de/web/guest/suchen/-/details/ubersicht-der-open-data-angebote-in-deutschlandc9132)
+
 ## Empfehlenswerte CKAN Extensions
 
 * **ckanext-pages** (en.) Kleines CMS für CKAN mit Seiten und Beiträgen https://github.com/ckan/ckanext-pages

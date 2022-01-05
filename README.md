@@ -9,8 +9,9 @@ A curated list of all awesome things related to CKAN in deutsch
 
 ## Deutsche CKAN Open Data Portale
 
-* **Offene Daten portal Stadt Frankfurt am Main** Leichte, schriftbetonte Oberfläche, integriert in städtische Corporate Design https://offenedaten.frankfurt.de
-* **Open Data Portal Metropole Ruhr** Aufgeräumtes, übersichtliches Template https://opendata.ruhr
+* **Offene Daten Portal Stadt Frankfurt am Main** Leichte, schriftbetonte Oberfläche, integriert in städtische Corporate Design https://offenedaten.frankfurt.de
+* **Open Data Portal Metropole Ruhr** Aufgeräumtes, übersichtliches Template, viel Inhalt https://opendata.ruhr
+* **Open Data Portal Aachen** Hübsch aufbereitet https://offenedaten.aachen.de/
 
 Weitere Open Data Portale gibt es als Open Data [hier](https://www.govdata.de/web/guest/suchen/-/details/ubersicht-der-open-data-angebote-in-deutschlandc9132)
 
@@ -22,7 +23,7 @@ Weitere Open Data Portale gibt es als Open Data [hier](https://www.govdata.de/we
 * **recline_grid_view / DataStore Grid** (en.) Universelle Anzeige von strukturierten Inhalten, nur für den CKAN DataStore https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-grid
 * **recline_map_view / DataStore Map** (en.) Anzeige von Daten aus dem DataStore mit GeoJson (Lat/Lon) Feldern https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-map
 * **ckanext-dcat** (en.) Fügt RDF-Informationenzu den Datensätzen hinzu, die beim Harvesten Metadaten zur Verfügung gestellt und konsumiert werden können. DCAT = Data Catalog Vocabulary
-* **harvest ckan_harvester** Damit können CKAN-Portale komplette Datensätze von/zu anderern CKAN-Portalen übertragen https://github.com/ckan/ckanext-harvest
+* **ckanext-similar-datasets** Darstellung ähnlicher Datensaätze https://github.com/ondics/ckanext-similar-datasets
 
 ## Nutzung von CKAN in eigenen Anwendungen / Apps / Applikationen
 

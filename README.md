@@ -14,7 +14,7 @@ A curated list of all awesome things related to CKAN in deutsch
 * **Open Data Portal Aachen** Hübsch aufbereitet https://offenedaten.aachen.de/
 * **Offene Daten der Stadt Leipzig** mit vielen Bildern aus dem Stadtarchiv https://opendata.leipzig.de/
 
-Weitere Open Data Portale gibt es als Open Data [hier](https://www.govdata.de/web/guest/suchen/-/details/ubersicht-der-open-data-angebote-in-deutschlandc9132)
+Weitere Open Data Portale gibt es als Open Data [hier](https://opendata.ruhr/dataset/ubersicht-der-open-data-angebote-in-deutschland/resource/2a8fafd0-b87f-4342-82b6-6e56569d673d)
 
 ## Empfehlenswerte CKAN Extensions
 

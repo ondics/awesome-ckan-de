@@ -23,7 +23,7 @@ Weitere Open Data Portale gibt es als Open Data [hier](https://opendata.ruhr/dat
 * **recline_view / Data Explorer** (en.) Universelle Anzeige von strukturierten Inhalten, optimiert für den CKAN DataStore  https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#data-explorer
 * **recline_grid_view / DataStore Grid** (en.) Universelle Anzeige von strukturierten Inhalten, nur für den CKAN DataStore https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-grid
 * **recline_map_view / DataStore Map** (en.) Anzeige von Daten aus dem DataStore mit GeoJson (Lat/Lon) Feldern https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-map
-* **ckanext-dcat** (en.) Fügt RDF-Informationenzu den Datensätzen hinzu, die beim Harvesten Metadaten zur Verfügung gestellt und konsumiert werden können. DCAT = Data Catalog Vocabulary
+* **ckanext-dcat** (en.) Fügt RDF-Informationenzu den Datensätzen hinzu, die beim Harvesten Metadaten zur Verfügung gestellt und konsumiert werden können. DCAT = Data Catalog Vocabulary: https://github.com/ckan/ckanext-dcat In Deutschland am besten eingesetzt mit [**ckanext-dcatde**](https://github.com/GovDataOfficial/ckanext-dcatde)
 * **ckanext-similar-datasets** Darstellung ähnlicher Datensaätze https://github.com/ondics/ckanext-similar-datasets
 
 ## Nutzung von CKAN in eigenen Anwendungen / Apps / Applikationen
@@ -49,6 +49,19 @@ Weitere Open Data Portale gibt es als Open Data [hier](https://opendata.ruhr/dat
 * **CKAN Handbuch (en.) für Version 2.9** https://docs.ckan.org/en/2.9/contents.html
 * **Data Catalog Vocabulary (DCAT) - Version 2** (en.) DCAT Spezifikation https://www.w3.org/TR/vocab-dcat/
 * **DCAT-AP** Metadatenmodell zum Austausch von offenen Verwaltungsdaten https://www.dcat-ap.de/
+
+## DCAT-AP.de
+
+Der deutsche Metadatenstandard wird benötigt, um GovData-Harvesting zu ermöglichen. DCAT-AP.de hilft, Metadaten über Open Data Portal hinweg in gleicher Weise zu verwenden. 
+
+Hier ein paar Tools und Hinweise mit Bezug zu DCAT-AP.de:
+
+* Einführender Artikel zu DCAT-AP und DCAT-AP.de: https://ckan.de/was-ist-eigentlich-dcat-ap/
+* kurzes Erklärvideo: https://youtu.be/DGCay_bbvDc
+* CKAN-Extension für die DCAT-AP Basis: https://github.com/ckan/ckanext-dcat
+* CKAN-Extension für die deutsche Erweiterung zu DCAT-AP: https://github.com/GovDataOfficial/ckanext-dcatde
+* Konventionen-Handbuch für DCAT-AP.de: Wie sind die Metadaten definiert? https://www.dcat-ap.de/def/dcatde/2.0/implRules/
+* Validator zur Prüfung von Open Data Portalen und Datensätzen auf DCAT-AP.de Konformität: https://www.itb.ec.europa.eu/shacl/dcat-ap.de/upload
 
 # Verbesserungen
 

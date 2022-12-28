@@ -1,6 +1,10 @@
 # awesome-ckan-de
 A curated list of all awesome things related to CKAN in deutsch
 
+## Überblick Open Data Portale
+
+* **Open Data Portal Watch** Wirtschaftsuniversität Wien https://data.wu.ac.at/portalwatch/
+
 ## Große CKAN Open Data Portale weltweit
 
 * **Britisches Open Data Portal** (en.) data.gov.uk | Find open data  https://data.gov.uk/

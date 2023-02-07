@@ -43,7 +43,7 @@ Weitere Open Data Portale gibt es als Open Data [hier](https://opendata.ruhr/dat
 
 * **CKAN’s Action API** (en.) API Kurzbeschreibung https://ckan.org/portfolio/api/
 * **API guide** (en.) API Dokumentation https://docs.ckan.org/en/2.9/api/index.html
-* **ckanapi** (en.) API Beschreibung und Implementierung in Python https://github.com/ckan/ckanapi
+* **ckanapi** (en.) Python-API und erweiterte CKAN-CLI https://github.com/ckan/ckanapi
 
 
 ## CKAN Handbuch / Anleitungen 

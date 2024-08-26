@@ -4,7 +4,7 @@ A curated list of all awesome things related to CKAN in deutsch
 ## Überblick Open Data Portale
 
 * **Open Data Portal Watch** Über 280 Open Data Portale weltweit im Überblick | Wirtschaftsuniversität Wien | https://data.wu.ac.at/portalwatch/
-* **CKAN instances around the world** (en.) Viele CKAN-Portale sind hier gelistet https://ckan.org/about/instances/
+* **CKAN instances around the world** (en.) Viele CKAN-Portale sind hier gelistet [https://ckan.org/about/instances/](https://ckan.org/showcase)
 
 ## Große CKAN Open Data Portale weltweit
 

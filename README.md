@@ -3,8 +3,8 @@ A curated list of all awesome things related to CKAN in deutsch
 
 ## Extensions-Kataloge
 
-* **CKAN-Hub** Alle CKAN Extensions auf einen Blick. CKAN-Versionen im Überblick. CKAN-Statistiken. CKAN-Services.
-* **CKAN Ecosystem Catalog** Open Data Portals based on CKAN, Extension Catalog
+* **CKAN-Hub** Alle CKAN Extensions auf einen Blick. CKAN-Versionen im Überblick. CKAN-Statistiken. CKAN-Services [https://ckan-hub.org/]
+* **CKAN Ecosystem Catalog** Open Data Portals based on CKAN, Extension Catalog [https://ecosystem.ckan.org]
 
 ## Überblick Open Data Portale
 

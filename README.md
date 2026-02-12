@@ -1,6 +1,11 @@
 # awesome-ckan-de
 A curated list of all awesome things related to CKAN in deutsch
 
+## Extensions-Kataloge
+
+* **CKAN-Hub** Alle CKAN Extensions auf einen Blick. CKAN-Versionen im Überblick. CKAN-Statistiken. CKAN-Services.
+* **CKAN Ecosystem Catalog** Open Data Portals based on CKAN, Extension Catalog
+
 ## Überblick Open Data Portale
 
 * **Open Data Portal Watch** Über 280 Open Data Portale weltweit im Überblick | Wirtschaftsuniversität Wien | https://data.wu.ac.at/portalwatch/
